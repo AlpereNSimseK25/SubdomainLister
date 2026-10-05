@@ -1,1 +1,1 @@
-Python da requests kütüphanesi kullanılar yapılan bir subdomain bulucu uygulama
+Python da requests kütüphanesi kullanılarak yapılan bir subdomain bulucu uygulama
